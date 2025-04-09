@@ -107,7 +107,7 @@ For students learning pharmacology.
 For clinicians looking to explore drug-condition relationships.
 
 👨‍💻 Author
-Santhosh J
+Priyadharshini J
 A project focused on intelligent healthcare using machine learning.
 
 📄 License
